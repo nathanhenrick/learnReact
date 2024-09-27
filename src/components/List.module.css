@@ -1,0 +1,16 @@
+.listContainer {
+    background-color: slategrey;
+    color: #191919;
+    font-weight: bold;
+    text-align: right;
+    list-style: none;
+    padding: 2rem;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+
+.titleList {
+    text-align: center;
+    color: white;
+    background-color: #191919;
+}
